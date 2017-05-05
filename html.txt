@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>mexico lindo.</h1>
-<img src="michoacan mexico.</p>
+<img src="lago de patzcuaro.</p>
 <p id=" special"> arriva michoacan.</p>
 </body>
 </html>
