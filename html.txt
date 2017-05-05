@@ -4,8 +4,8 @@
 <title>michoacan y sus maravillas!</title>
 </head>
 <body>
-<h1>mexico lindo.</h1>
-<img src="lago de patzcuaro.</p>
-<p id=" special"> arriva michoacan.</p>
+<h1>michoacan.</h1>
+<img src="lago de patzcuaro.jpg"</p>
+<p id=" special">mi michoacan.</p>
 </body>
 </html>
